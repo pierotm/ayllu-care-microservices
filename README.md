@@ -1,2 +1,2 @@
 # ayllu-care-microservices
-Microservices-based backend for AylluCare, an intelligent telemedicine platform built with Domain-Driven Design (DDD). It manages patient profiles, anamnesis, triage, prescriptions, and clinical case workflows.
+This repository contains the microservices-based backend for a AylluCare application. Designed following Domain-Driven Design (DDD) principles and built around clearly defined bounded contexts, the system embraces a decentralized architecture to enhance scalability, maintainability, and independent deployment of services. Each microservice encapsulates a specific business domain, ensuring a clean separation of concerns and facilitating agile development and integration.
